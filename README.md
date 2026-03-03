@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi 👋, I'm [Amit]
 
-<!--
-**amitghoyal/amitghoyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Computer Science Student  
+- Aspiring Full Stack Developer & Machine Learning Enthusiast  
+- Passionate about building real-world problem-solving applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Currently a student exploring modern technologies
+- Learning: MEAN Stack, Machine Learning, and Python
+- Interested in AI-powered web applications
+- Working on: Disease Prediction System Project
+- Goal: Become a skilled Full Stack & AI Developer
+- Reach me at: amittghoyal@gmail.com
+
+---
+
+## Tech Stack
+
+### Web Development (MEAN Stack)
+- MongoDB
+- Express.js
+- Angular
+- Node.js
+
+### Machine Learning
+- Python
+- NumPy
+- Pandas
+- Scikit-learn
+
+### Tools & Technologies
+- Git
+- GitHub
+- VS Code
+
+---
+
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amitghoyal&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amitghoyal&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/amit-ghoyal-136858393
+- Portfolio: https://amitghoyal.github.io
