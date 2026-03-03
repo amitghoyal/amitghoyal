@@ -1,4 +1,4 @@
-# Hi 👋, I'm [Amit]
+# Hi 👋, I'm Amit
 
 - Computer Science Student  
 - Aspiring Full Stack Developer & Machine Learning Enthusiast  
